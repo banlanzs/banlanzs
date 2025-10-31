@@ -1,5 +1,5 @@
 ## Hi there 👋
-![banlanzs's Stats](https://github-readme-stats.vercel.app/api?username=banlanzs&theme=default&show_icons=true&hide_border=true&count_private=true)
+![banlanzs's Stats](https://github-readme-stats.vercel.app/api?username=banlanzs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![](https://stats.justsong.cn/api/github?username=banlanzs)
 
