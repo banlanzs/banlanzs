@@ -7,6 +7,9 @@
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=banlanzs&theme=default&hide_border=true)
 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=banlanzs" /> </div>
+
+
 <!--
 **banlanzs/banlanzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
