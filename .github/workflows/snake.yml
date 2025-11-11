@@ -37,7 +37,7 @@ jobs:
 
       # 3. 生成SVG（使用固定SHA版本）
       - name: Generate contribution snake
-        uses: Platane/snk/svg-only@a274fa9753b3c7df3e4d5d1ab543fbd04ed0f6c8 # v3.2.0
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -59,7 +59,7 @@ jobs:
 
       # 5. 推送到output分支（使用固定SHA版本）
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@fbf0a4fa4fecb8095f6d2549507c40a18d5c8e73 # v4.0.0
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
