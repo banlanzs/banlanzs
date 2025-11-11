@@ -3,7 +3,7 @@
 
 ![](https://stats.justsong.cn/api/github?username=banlanzs)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=banlanzs&theme=default&show_icons=true&hide_border=true&layout=compact)
+![banlanzs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=banlanzs&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=banlanzs&theme=default&hide_border=true)
 
