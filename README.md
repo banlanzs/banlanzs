@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://readme-typing-svg.demolab.com/?lines=人生若只如初见，何事秋风悲画扇)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/banlanzs/banlanzs/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/banlanzs/banlanzs/output/github-contribution-grid-snake.svg">
